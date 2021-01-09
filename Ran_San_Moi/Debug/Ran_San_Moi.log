@@ -1,0 +1,35 @@
+﻿  ham.cpp
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(74,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(121,24): warning C4018: '<': signed/unsigned mismatch
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(159,49): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(173,49): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(626,67): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(629,68): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(631,68): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(633,68): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(635,69): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(637,69): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(639,69): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(670,67): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(673,68): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(675,68): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(677,68): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(703,67): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(706,68): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(708,68): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(761,67): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(764,68): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(766,68): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(824,8): warning C4101: 'sRac': unreferenced local variable
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(888,23): warning C4018: '<': signed/unsigned mismatch
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(890,28): warning C4018: '<': signed/unsigned mismatch
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(901,23): warning C4018: '<': signed/unsigned mismatch
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(942,67): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(945,68): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(947,68): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(949,68): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(951,69): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\CODE\code trên visual\Ran_San_Moi\Ran_San_Moi\ham.cpp(954,63): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+  main.cpp
+  Generating Code...
+  Ran_San_Moi.vcxproj -> E:\CODE\code trên visual\Ran_San_Moi\Debug\Ran_San_Moi.exe
